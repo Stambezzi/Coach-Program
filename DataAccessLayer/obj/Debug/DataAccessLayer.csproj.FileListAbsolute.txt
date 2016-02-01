@@ -1,0 +1,5 @@
+C:\Users\stamba\Desktop\Coach Program\Program\Coach Program\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\stamba\Desktop\Coach Program\Program\Coach Program\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\stamba\Desktop\Coach Program\Program\Coach Program\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\stamba\Desktop\Coach Program\Program\Coach Program\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\stamba\Desktop\Coach Program\Program\Coach Program\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
